@@ -1,0 +1,12 @@
+h1 {
+    font-size: 30px;
+    color: rgb(153, 153, 17);
+}
+
+button{
+    color: rgb(224, 25, 25);
+}
+
+.output {
+    color: red;
+}
